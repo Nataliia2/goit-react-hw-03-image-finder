@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nataliia2/goit-react-hw-03-image-finder.git",
+  "homepage": "https://nataliia2.github.io/goit-react-hw-03-image-finder/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
