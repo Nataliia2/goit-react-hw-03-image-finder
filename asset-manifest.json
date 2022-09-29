@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nataliia2/goit-react-hw-03-image-finder.git/static/css/main.7acaea2f.css",
-    "main.js": "/Nataliia2/goit-react-hw-03-image-finder.git/static/js/main.f6cdf716.js",
+    "main.css": "/Nataliia2/goit-react-hw-03-image-finder.git/static/css/main.2c125458.css",
+    "main.js": "/Nataliia2/goit-react-hw-03-image-finder.git/static/js/main.1abd12d0.js",
     "index.html": "/Nataliia2/goit-react-hw-03-image-finder.git/index.html",
-    "main.7acaea2f.css.map": "/Nataliia2/goit-react-hw-03-image-finder.git/static/css/main.7acaea2f.css.map",
-    "main.f6cdf716.js.map": "/Nataliia2/goit-react-hw-03-image-finder.git/static/js/main.f6cdf716.js.map"
+    "main.2c125458.css.map": "/Nataliia2/goit-react-hw-03-image-finder.git/static/css/main.2c125458.css.map",
+    "main.1abd12d0.js.map": "/Nataliia2/goit-react-hw-03-image-finder.git/static/js/main.1abd12d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.f6cdf716.js"
+    "static/css/main.2c125458.css",
+    "static/js/main.1abd12d0.js"
   ]
 }
